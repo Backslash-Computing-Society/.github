@@ -14,7 +14,7 @@ This repository serves as a hub for various open-source software and content dev
 
 3. **Make Changes**: Create a new branch for your changes and make the necessary modifications.
 
-4. **Commit Changes**: Commit your changes with clear and concise commit messages that explain the purpose of each change.
+4. **Commit Changes**: Commit your changes with clear and concise commit messages explaining each change's purpose.
 
 5. **Push Changes**: Push your changes to your forked repository on GitHub.
 
@@ -22,7 +22,7 @@ This repository serves as a hub for various open-source software and content dev
 
 **Rules and Regulations**
 
-1. **Code of Conduct**: Respect the [BCS Code of Conduct](code_of_conduct.md) and adhere to ethical behavior while contributing or using this repository.
+1. **Code of Conduct**: Respect the [BCS Code of Conduct](code_of_conduct.md) and adhere to ethical behaviour while contributing or using this repository.
 
 2. **Licensing**: All contributions must be made under the terms of the [BCS, TIET, and LMTSM License Agreement](LICENSE.md).
 
@@ -46,8 +46,8 @@ This repository serves as a hub for various open-source software and content dev
 
 **Contact**
 
-For inquiries or clarifications, please contact BCS at [contact email] or TIET at [contact email].
+For inquiries or clarifications, please contact Gen. Sec. at nbabbar51@gmail.com[mailto:nbabbar51@gmail,com] or Tech Head Vanshaj Raghuvanshi[mailto:].
 
 Thank you for being a part of the BCS community! Your contributions and collaboration are highly valued.
 
-*Last Updated: [Insert Date]*
+*Last Updated: [12 Aug 2023]*
