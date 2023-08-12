@@ -46,7 +46,7 @@ This repository serves as a hub for various open-source software and content dev
 
 **Contact**
 
-For inquiries or clarifications, please contact Gen. Sec. at nbabbar51@gmail.com[mailto:nbabbar51@gmail,com] or Tech Head Vanshaj Raghuvanshi[mailto:].
+For inquiries or clarifications, please contact Gen. Sec. at nbabbar51@gmail.com or Tech Head Vanshaj Raghuvanshi.
 
 Thank you for being a part of the BCS community! Your contributions and collaboration are highly valued.
 
