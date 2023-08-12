@@ -1,6 +1,6 @@
 # **Welcome to the BCS Repository**
 
-This repository is maintained by the Benevolent Coding Society (BCS) in collaboration with the Thapar Institute of Engineering and Technology (TIET) and the Lala Lajpat Rai Memorial Technical Society (LMTSM). We are excited to have you on board as a contributor or user of our open-source projects. Please read this README thoroughly to understand the rules, regulations, and guidelines for working with this repository.
+This repository is maintained by the Backslash Computing Society (BCS) in collaboration with the Thapar Institute of Engineering and Technology (TIET) and the LM Thapar School of Management (LMTSM). We are excited to have you on board as a contributor or user of our open-source projects. Please read this README thoroughly to understand the rules, regulations, and guidelines for working with this repository.
 
 ## **Repository Purpose**
 
