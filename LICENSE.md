@@ -8,19 +8,19 @@ This license agreement governs the use, distribution, and modification of softwa
 
 ## **License Terms**
 
-1. ### **Grant of License**: BCS, TIET, and LMTSM grant you a non-exclusive, royalty-free, worldwide, revocable license to use, modify, distribute, and share the software and content covered by this license, in accordance with the rules and regulations of TIET and LMTSM.
+1. ### **Grant of License** : BCS, TIET, and LMTSM grant you a non-exclusive, royalty-free, worldwide, revocable license to use, modify, distribute, and share the software and content covered by this license, in accordance with the rules and regulations of TIET and LMTSM.
 
-2. ### **Compliance with Rules and Regulations**: Any use, modification, distribution, or sharing of software or content covered by this license must adhere to the rules and regulations set forth by TIET, LMTSM, and BCS. Non-compliance may result in appropriate actions being taken against the violating party.
+2. ### **Compliance with Rules and Regulations** : Any use, modification, distribution, or sharing of software or content covered by this license must adhere to the rules and regulations set forth by TIET, LMTSM, and BCS. Non-compliance may result in appropriate actions being taken against the violating party.
 
-3. ### **Prohibition of Harmful Actions**: You are expressly prohibited from engaging in any actions that attempt to disrupt, damage, or disable the BCS website, repository, or related services through methods such as Distributed Denial of Service (DDOS), flooding, or any other malicious means. Similar actions by members of the BCS team are also strictly prohibited.
+3. ### **Prohibition of Harmful Actions** : You are expressly prohibited from engaging in any actions that attempt to disrupt, damage, or disable the BCS website, repository, or related services through methods such as Distributed Denial of Service (DDOS), flooding, or any other malicious means. Similar actions by members of the BCS team are also strictly prohibited.
 
-4. ### **Disciplinary Measures**: In the event that any individual affiliated with BCS, TIET, or LMTSM is found to be engaging in actions described in point 3, they may be subjected to disciplinary measures, including but not limited to removal from BCS, TIET, or LMTSM, as deemed appropriate by the governing bodies.
+4. ### **Disciplinary Measures** : In the event that any individual affiliated with BCS, TIET, or LMTSM is found to be engaging in actions described in point 3, they may be subjected to disciplinary measures, including but not limited to removal from BCS, TIET, or LMTSM, as deemed appropriate by the governing bodies.
 
-5. ### **Unauthorized Repository Contributions**: Any attempts by external individuals to introduce content or materials into the BCS repository that violate the rules and regulations of TIET, LMTSM, or BCS will result in strict actions being taken against the responsible parties.
+5. ### **Unauthorized Repository Contributions** : Any attempts by external individuals to introduce content or materials into the BCS repository that violate the rules and regulations of TIET, LMTSM, or BCS will result in strict actions being taken against the responsible parties.
 
-6. ### **Limitation of Liability**: The software and content provided under this license are provided "as is," without warranties or guarantees of any kind. BCS, TIET, and LMTSM shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the software or content.
+6. ### **Limitation of Liability** : The software and content provided under this license are provided "as is," without warranties or guarantees of any kind. BCS, TIET, and LMTSM shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the software or content.
 
-7. ### **Termination of License**: This license can be terminated by BCS, TIET, or LMTSM if you fail to comply with its terms and conditions. Upon termination, you must cease all use, distribution, and modification of the software and content covered by this license.
+7. ### **Termination of License** : This license can be terminated by BCS, TIET, or LMTSM if you fail to comply with its terms and conditions. Upon termination, you must cease all use, distribution, and modification of the software and content covered by this license.
 
 ## **Governing Law**
 
