@@ -46,7 +46,7 @@ This repository serves as a hub for various open-source software and content dev
 
 **Contact**
 
-For inquiries or clarifications, please contact General Secretary Naman Babbar [nbabbar51@gmail.com] or Tech Head Vanshaj Raghuvanshi.
+For inquiries or clarifications, please contact General Secretary Naman Babbar [nbabbar51@gmail.com] or Tech Head Vanshaj Raghuvanshi [vanshajraghuvanshi@gmail.com].
 
 Thank you for being a part of the BCS community! Your contributions and collaboration are highly valued.
 
