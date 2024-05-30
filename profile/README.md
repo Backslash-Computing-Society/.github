@@ -46,8 +46,8 @@ This repository serves as a hub for various open-source software and content dev
 
 **Contact**
 
-For inquiries or clarifications, please contact General Secretary Naman Babbar [nbabbar51@gmail.com] or Tech Head Vanshaj Raghuvanshi [vanshajraghuvanshi@gmail.com].
+For inquiries or clarifications, please contact General Secretary Siddhant Bhardwaj [sbhardwaj_be23@thapar.edu] or Tech Head Vaibhav Sundriyal [vsundriyal_be23@thapar.edu].
 
 Thank you for being a part of the BCS community! Your contributions and collaboration are highly valued.
 
-*Last Updated: [12 Aug 2023]*
+*Last Updated: [30 May 2024]*
