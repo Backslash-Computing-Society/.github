@@ -46,7 +46,7 @@ This repository serves as a hub for various open-source software and content dev
 
 **Contact**
 
-For inquiries or clarifications, please contact General Secretary Aryan Thakkar [aryanthakkar1278@gmail.com] or Tech Head Daksh Aggarwal [mgupta3_be@thapar.edu].
+For inquiries or clarifications, please contact General Secretary Aryan Thakkar [mkhanna_be25@thapar.edu] or Tech Head Daksh Aggarwal [mgupta3_be@thapar.edu].
 
 Thank you for being a part of the BCS community! Your contributions and collaboration are highly valued.
 
